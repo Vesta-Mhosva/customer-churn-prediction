@@ -1,2 +1,2 @@
 # customer-churn-prediction
-Machine Learning and Data Science project for predicting customer churn.
+A machine learning pipeline to predict customer churn using Random Forest.
